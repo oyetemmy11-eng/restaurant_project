@@ -227,7 +227,8 @@ margin-top: 0;
 .contact-container{
     background-color: #233000;
     display: flex;
-    border-bottom: 4px dotted brown;
+    border-bottom: 4px dotted beige;
     padding: 4rem 4rem ;
     margin: 4px;
+    color: white;
 }
